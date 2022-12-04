@@ -1,0 +1,15 @@
+abraham,DT002,r
+abraham,DH002,rw
+ali,DT002,rw
+ali,DH001,r
+ali,DT001,rw
+ali,DH002,rw
+user_1,DT002,rw
+user_1,DH002,r
+user_1,DT001,rw
+user_1,DH001,r
+user_2,DT001,r
+user_2,DT003,rw
+user_3,DT004,rw
+user_3,DH003,rw
+user_1,DT003,r
